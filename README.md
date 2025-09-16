@@ -8,11 +8,13 @@ Instructions:
 
 (If using CLion, make sure it reloads the CMake Project and can read all the CMakeLists.txt files.)
 
-1.) Run the code in a C++ compiler
+1.) Get the .cpp and .h files from the Assignment 1 folder
 
-2.) Input integers to run the program (It may request an integer within certain restraints, like an integer between 1 to 6, etc.)
+2.) Run the code (from the .cpp file) in a C++ compiler
 
-3.) Enjoy
+3.) Input values to run the program (It will usually request integers within certain restraints, like an integer between 1 to 6, etc.)
+
+4.) Enjoy
 
 Output:
 
