@@ -8,7 +8,9 @@ Instructions:
 
 (If using CLion, make sure it reloads the CMake Project and can read all the CMakeLists.txt files.)
 
-1.) Get the .cpp and .h files from the Assignment 1 folder
+Note: The input file (A1input.txt) is in the CS303-Assignments/cmake-build-debug/Assignment 1 folder, and is not in the CS303-Assignments/Assignment 1 folder
+
+1.) Get the .cpp and .h files from the Assignment 1 folder; also get the A1input.txt file.
 
 2.) Run the code (from the .cpp file) in a C++ compiler
 
