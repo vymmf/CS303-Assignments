@@ -51,6 +51,7 @@ int processArray(const string& fileName, int*& array)
     return count;
 }
 
+// Displays the array in sets of rows
 void displayArray(int*& array, int& arraySize, const int rowSize)
 {
     cout << "Displaying Array:" << endl << endl;

@@ -1,26 +1,30 @@
 #ifndef CS303_ASSIGNMENTS_MAIN_H
 #define CS303_ASSIGNMENTS_MAIN_H
 
-int main();
+#include <iostream>
 
-int countArray();
+using namespace std;
 
-int processArray();
+int countElements(const string& fileName);
 
-void displayArray();
+int processArray(const string& fileName, int*& array);
 
-int findValue(int[], int);
+void displayArray(int*& array, int& arraySize, const int rowSize);
 
-int modifyValue(int[], int);
+int findValue(int target, int*& array, int& arraySize);
 
-int addValue(int[], int);
+void modifyValue(int index, int newValue, int*& array, int& arraySize);
 
-int removeValue(int[], int);
+void addValue(int value, int*& array, int& arraySize, int& capacity);
+
+void removeValue(int index, int*& array, int& arraySize);
 
 void displayOptions();
 
-int getUserInput();
+int getUserInput(int version, int& arraySize);
 
-bool executeOption();
+bool executeOption(int choice, int*& array, int& arraySize, int capacity, const int rowSize);
+
+int main();
 
 #endif //CS303_ASSIGNMENTS_MAIN_H
