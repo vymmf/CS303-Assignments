@@ -13,20 +13,20 @@ class SingleLinkedList {
         Node* tail;
         int numItems;
     public:
-        void setHead();
-        void setTail();
-        void setNumItems();
+        void setHead(Node* head);
+        void setTail(Node* tail);
+        void setNumItems(int num);
 
         Node* getHead() const { return head; }
         Node* getTail() const { return tail; }
         int getNumItems() const { return numItems; };
 
-        void pushFront();
-        void pushBack();
+        void pushFront(string data);
+        void pushBack(string data);
         void popFront();
         void popBack();
-        void front();
-        void back();
+        string front();
+        string back();
         bool empty();
         void insert();
         bool remove();
