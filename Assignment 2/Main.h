@@ -21,16 +21,16 @@ class SingleLinkedList {
         Node* getTail() const { return tail; }
         int getNumItems() const { return numItems; };
 
-        void pushFront(string data);
-        void pushBack(string data);
+        void pushFront(const string& data);
+        void pushBack(const string& data);
         void popFront();
         void popBack();
         string front();
         string back();
         bool empty();
-        void insert();
-        bool remove();
-        size_t find();
+        void insert(int index, const string& data);
+        bool remove(int index);
+        size_t find(string data);
 };
 
 class Main {
