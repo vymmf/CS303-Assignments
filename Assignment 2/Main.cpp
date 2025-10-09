@@ -140,7 +140,7 @@ bool SingleLinkedList::remove(int index){
         if (head == nullptr) {
             tail = nullptr;
         }
-        
+
         delete temp;
         return true;
     }
@@ -167,7 +167,7 @@ bool SingleLinkedList::remove(int index){
 
     // Removes a new node at position index
     current->next = current->next->next;
-    delete current;
+    delete current->next;
     return true;
 }
 
