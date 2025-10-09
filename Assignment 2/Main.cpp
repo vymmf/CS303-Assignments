@@ -166,8 +166,15 @@ bool SingleLinkedList::remove(int index){
     }
 
     // Removes a new node at position index
+    Node* temp = current->next;
+
     current->next = current->next->next;
-    delete current->next;
+    delete temp;
+
+    if (current->next == nullptr) {
+        tail = current;
+    }
+
     return true;
 }
 
