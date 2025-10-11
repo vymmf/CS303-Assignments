@@ -1,6 +1,6 @@
 # Assignment 1 Report
 
-Purpose: 
+Description: 
 
 Allows the user to do operations on an array that is generated from an input file.
 
