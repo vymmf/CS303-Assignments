@@ -21,26 +21,26 @@ Implementation Rundown:
 
 Single Linked Lists (SLL) has various operations such as:
 
-Push Front (Adds a new node to the front of the SLL and sets it as the new head)
-Push Back (Adds a new node to the back of the SLL and sets it as the new tail)
-Pop Front (Deletes the node at the front/head, then sets the new head to the node ahead)
-Pop Back (Deletes the node at the back/tail, then sets the new tail to the node before)
-Front (Returns the data in the node at the front/head)
-Front (Returns the data in the node at the back/tail)
-Empty (Checks if the SLL is empty, then returns true or false)
-Insert (Adds a new node at a specified index, also has special cases for index 0 and index 
-Remove (Removes a new node at a specified index, also has special cases for index 0 and index)
-Find (Finds the index of the specified data; returns the size of the SLL if index could not be found)
+- Push Front (Adds a new node to the front of the SLL and sets it as the new head)
+- Push Back (Adds a new node to the back of the SLL and sets it as the new tail)
+- Pop Front (Deletes the node at the front/head, then sets the new head to the node ahead)
+- Pop Back (Deletes the node at the back/tail, then sets the new tail to the node before)
+- Front (Returns the data in the node at the front/head)
+- Front (Returns the data in the node at the back/tail)
+- Empty (Checks if the SLL is empty, then returns true or false)
+- Insert (Adds a new node at a specified index, also has special cases for index 0 and index 
+- Remove (Removes a new node at a specified index, also has special cases for index 0 and index)
+- Find (Finds the index of the specified data; returns the size of the SLL if index could not be found)
 
 While Stack (STK) has operations such as:
 
-IsEmpty (Checks if the STK is empty, then returns true or false)
-Push (Adds element to the top of the STK)
-Pop (Removes element from the top of the STK)
-Top (Returns the element at the top of the STK)
-Size (Returns the size of the STK)
-Average (Returns the average of the STK, assuming the elements are all integers)
-Display (Prints out the STK and each of its elements)
+- IsEmpty (Checks if the STK is empty, then returns true or false)
+- Push (Adds element to the top of the STK)
+- Pop (Removes element from the top of the STK)
+- Top (Returns the element at the top of the STK)
+- Size (Returns the size of the STK)
+- Average (Returns the average of the STK, assuming the elements are all integers)
+- Display (Prints out the STK and each of its elements)
 
 There's also functions that help with displaying specific texts relating to the SLL, such as displaying all the data values in the SLL, and what the head and tail nodes are.
 
