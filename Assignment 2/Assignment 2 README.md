@@ -15,6 +15,37 @@ Instructions:
 
 4.) No User Input is required, program simply tests the creation of Single Linked Lists and Stacks
 
-Implementation:
+Implementation Rundown:
+
+2 Classes are created for the Single Linked List (SLL) and Stack (STK) data structures.
+
+Single Linked Lists (SLL) has various operations such as:
+
+Push Front (Adds a new node to the front of the SLL and sets it as the new head)
+Push Back (Adds a new node to the back of the SLL and sets it as the new tail)
+Pop Front (Deletes the node at the front/head, then sets the new head to the node ahead)
+Pop Back (Deletes the node at the back/tail, then sets the new tail to the node before)
+Front (Returns the data in the node at the front/head)
+Front (Returns the data in the node at the back/tail)
+Empty (Checks if the SLL is empty, then returns true or false)
+Insert (Adds a new node at a specified index, also has special cases for index 0 and index 
+Remove (Removes a new node at a specified index, also has special cases for index 0 and index)
+Find (Finds the index of the specified data; returns the size of the SLL if index could not be found)
+
+While Stack (STK) has operations such as:
+
+IsEmpty (Checks if the STK is empty, then returns true or false)
+Push (Adds element to the top of the STK)
+Pop (Removes element from the top of the STK)
+Top (Returns the element at the top of the STK)
+Size (Returns the size of the STK)
+Average (Returns the average of the STK, assuming the elements are all integers)
+Display (Prints out the STK and each of its elements)
+
+There's also functions that help with displaying specific texts relating to the SLL, such as displaying all the data values in the SLL, and what the head and tail nodes are.
 
 Expected Output:
+
+<img width="1391" height="812" alt="Screenshot 2025-10-10 at 8 08 33 PM" src="https://github.com/user-attachments/assets/29c7bf20-314d-40de-b61a-5864979b6496" />
+
+<img width="1391" height="818" alt="Screenshot 2025-10-10 at 8 08 51 PM" src="https://github.com/user-attachments/assets/40da987d-48c1-4c90-ad04-787ea207cbf9" />
