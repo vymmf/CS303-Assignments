@@ -46,6 +46,8 @@ There's also functions that help with displaying specific texts relating to the 
 
 **Input (No Direct User Input):**
 
+Comments are provided to help explain each portion of the code.
+
 <img width="1238" height="775" alt="Screenshot 2025-10-14 at 6 04 44 PM" src="https://github.com/user-attachments/assets/c5333c85-be13-4857-be46-ca689d58bd73" />
 
 <img width="1245" height="774" alt="Screenshot 2025-10-14 at 6 05 02 PM" src="https://github.com/user-attachments/assets/6ede84b6-0ba3-431a-9f01-9b9115f2cd8d" />
