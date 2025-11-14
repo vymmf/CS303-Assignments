@@ -44,8 +44,28 @@ Note: More information about how these functions work are commented within the A
 
 Comments are provided to help explain each portion of the code.
 
+<img width="1470" height="956" alt="Screenshot 2025-11-14 at 5 06 59 PM" src="https://github.com/user-attachments/assets/9b6489e1-52e2-48f2-9ab0-e307edca9c2e" />
 
+<img width="1470" height="956" alt="Screenshot 2025-11-14 at 5 07 09 PM" src="https://github.com/user-attachments/assets/a1e35219-183c-4b95-87ba-fb9332d902f8" />
+
+<img width="1470" height="956" alt="Screenshot 2025-11-14 at 5 07 16 PM" src="https://github.com/user-attachments/assets/64ef1316-e1b6-4689-85ff-8ff6f5272df1" />
+
+<img width="1470" height="956" alt="Screenshot 2025-11-14 at 5 07 21 PM" src="https://github.com/user-attachments/assets/f665bdee-cb20-424d-aca3-430235e28401" />
+
+<img width="1470" height="956" alt="Screenshot 2025-11-14 at 5 07 25 PM" src="https://github.com/user-attachments/assets/8608561b-e957-45f2-81f3-9fd5e1d67930" />
+
+<img width="1470" height="956" alt="Screenshot 2025-11-14 at 5 07 29 PM" src="https://github.com/user-attachments/assets/1e0afb8c-1d38-48c3-be77-351dc1d8d847" />
+
+<img width="1470" height="956" alt="Screenshot 2025-11-14 at 5 07 35 PM" src="https://github.com/user-attachments/assets/c63bbf28-bbcb-44f4-ba45-9af27263ef03" />
+
+<img width="1470" height="956" alt="Screenshot 2025-11-14 at 5 07 39 PM" src="https://github.com/user-attachments/assets/0d7a1c45-efe1-4d5d-b38e-73c0d795cbd3" />
+
+<img width="1470" height="956" alt="Screenshot 2025-11-14 at 5 07 43 PM" src="https://github.com/user-attachments/assets/592d63b3-33a8-44f8-99c4-c9d47b704ad0" />
+
+<img width="1470" height="956" alt="Screenshot 2025-11-14 at 5 07 46 PM" src="https://github.com/user-attachments/assets/42374ef0-f227-43df-8cc8-a6616c81cd8b" />
 
 **Expected Output:**
 
+<img width="1470" height="956" alt="Screenshot 2025-11-14 at 5 08 02 PM" src="https://github.com/user-attachments/assets/d71586d3-2328-4b57-a18f-b24e00b0d5f0" />
 
+<img width="1470" height="956" alt="Screenshot 2025-11-14 at 5 08 09 PM" src="https://github.com/user-attachments/assets/81e6362f-915f-4a6b-8aae-5cb448615e56" />
