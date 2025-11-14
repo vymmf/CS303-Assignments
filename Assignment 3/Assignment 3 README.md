@@ -1,8 +1,10 @@
 # Assignment 3 Report
 
+
 **Description:**
 
 Creates Circular Double Linked List Queues from their respective classes and performs various queue-oriented operations. Additionally, Reverse Linear Search and Insertion Sort functions with compatibility with Linked Queues are used and tested in the program.
+
 
 **Instructions:**
 
@@ -13,6 +15,7 @@ Note: If using CLion, make sure it reloads the CMake Project and can read all th
 2.) Run the .cpp and .h files in a C++ compiler or an IDE that supports C++.
 
 4.) No User Input is required, program will run and display the results in the console.
+
 
 **Implementation Rundown:**
 
@@ -40,6 +43,7 @@ There are also 2 other functions, Reverse Linear Search and Insertion Sort, that
 
 Note: More information about how these functions work are commented within the Assignment 3 .cpp file
 
+
 **Input (No Direct User Input):**
 
 Comments are provided to help explain each portion of the code.
@@ -63,6 +67,7 @@ Comments are provided to help explain each portion of the code.
 <img width="1470" height="956" alt="Screenshot 2025-11-14 at 5 07 43 PM" src="https://github.com/user-attachments/assets/592d63b3-33a8-44f8-99c4-c9d47b704ad0" />
 
 <img width="1470" height="956" alt="Screenshot 2025-11-14 at 5 07 46 PM" src="https://github.com/user-attachments/assets/42374ef0-f227-43df-8cc8-a6616c81cd8b" />
+
 
 **Expected Output:**
 
