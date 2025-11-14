@@ -55,11 +55,8 @@ template <typename T = string&> class Queue {
 
     // Destructor for Queue Class
     ~Queue() {
-        Node<T>* current = head;
-        while (current != nullptr) {
-            Node<T>* next = current->next;
-            delete current;
-            current = next;
+        while (!empty()) {
+            pop();
         }
     }
 };
